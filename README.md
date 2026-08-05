@@ -7,6 +7,8 @@ python3 text2vid.py
  ```
  It should load a video of Rick Astley saying "YOU KNOW THE RULES AND SO DO I, SAY GOODBYE!!!"
  # To encode your own video:
+ **Make sure your video file name matches in the quotes in the code block below before running!**
+ 
  ```
 python3 -c "import base64; print(base64.b64encode(open('your_video.mp4', 'rb').read()).decode())"
 ```
