@@ -10,3 +10,6 @@ python3 text2vid.py
  ```
 python3 -c "import base64; print(base64.b64encode(open('your_video.mp4', 'rb').read()).decode())"
 ```
+**A text file containing the video should be output after you have ran this.**
+Paste it into the python script +hit save and then run it!
+Make sure that the video you chose is small or it could make the script seem LARGE!!!
