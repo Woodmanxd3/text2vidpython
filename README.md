@@ -27,6 +27,6 @@ python3 text2vid.py play your_video.b64.txt
 
 Make sure that the video you chose is small or it could make the script seem LARGE!!! If it's a big one, play the `.txt` directly rather than pasting it in.
 
-#SideNote:
+# SideNote:
 This project was primarily coded with ai. I do feel inclined that I must disclose that and the possibility that there was other contributions made with ai.
 It's a silly joke project, so don't take it too seriously if ai was used.
